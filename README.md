@@ -13,4 +13,4 @@ parameters through a purpose-built graphic user interface.
 Finally, testing of the model is carried out both in steady forcing conditions and over speed 
 ramps, highlighting the amplitude and frequency of the response of the system by analysing the 
 time domain and spectra of the resulting signals, both in the case of an ideal engine and of an 
-engine built with real dimensional tolerances
+engine built with real dimensional tolerances.
